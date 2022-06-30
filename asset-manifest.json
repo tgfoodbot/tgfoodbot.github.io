@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.5294ee9e.css",
-    "main.js": "./static/js/main.183c50a9.js",
-    "static/media/HelveticaNeue-Bold-02.ttf": "./static/media/HelveticaNeue-Bold-02.abab559f661a7d46e486.ttf",
-    "static/media/HelveticaNeue-Medium-11.ttf": "./static/media/HelveticaNeue-Medium-11.3544c501d5c407fcb906.ttf",
+    "main.css": "./static/css/main.6305ade9.css",
+    "main.js": "./static/js/main.103a53f1.js",
     "static/media/qr.svg": "./static/media/qr.fc1e7340aa3b1ec286e3ec331c595b15.svg",
-    "static/media/promo.svg": "./static/media/promo.56f6cac8dff86249bc60f31c3ee128ce.svg",
-    "static/media/arrow.svg": "./static/media/arrow.c89a0a7e2fcfa0755ff6fc5b08043c97.svg",
+    "static/media/close.svg": "./static/media/close.a951a0e1ae93e0d61326f7b9ff3c769c.svg",
+    "static/media/buy.svg": "./static/media/buy.19f5c568e567b3b9b712bb8b5223d8d6.svg",
     "index.html": "./index.html",
-    "static/media/location.svg": "./static/media/location.834a22d1fb613b705c8799c0c707a02c.svg",
-    "static/media/close.svg": "./static/media/close.ff88b9f07055e9d4fbc7293a8a97e0cd.svg",
-    "static/media/plus.svg": "./static/media/plus.f8924abed404b9f3424102162a4fd9a9.svg",
-    "static/media/minus.svg": "./static/media/minus.9fbc479296f960aea0f3a5b9bb17ab48.svg",
-    "main.5294ee9e.css.map": "./static/css/main.5294ee9e.css.map",
-    "main.183c50a9.js.map": "./static/js/main.183c50a9.js.map"
+    "static/media/plus3.svg": "./static/media/plus3.8e4aa8a52abcd76b82705d19c3a54b7b.svg",
+    "static/media/plus2.svg": "./static/media/plus2.edda2918652643a7609839d11a24eb42.svg",
+    "static/media/location.svg": "./static/media/location.f16ad98210c326321893f48dddf54bce.svg",
+    "static/media/minus2.svg": "./static/media/minus2.6f2eb666f2f832cfa9024be66c0bba7c.svg",
+    "static/media/phone.svg": "./static/media/phone.6c4743ddf04417dfe6746ed73e6eb93c.svg",
+    "static/media/minus.svg": "./static/media/minus.5dd4f712c337ecdc2a95bc4e3ac34d9e.svg",
+    "static/media/search.svg": "./static/media/search.adda3cb4fa31d91b641c31451cc22114.svg",
+    "static/media/plus.svg": "./static/media/plus.b0c57afe2e160a47a7b1205f5a17222b.svg",
+    "main.6305ade9.css.map": "./static/css/main.6305ade9.css.map",
+    "main.103a53f1.js.map": "./static/js/main.103a53f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.5294ee9e.css",
-    "static/js/main.183c50a9.js"
+    "static/css/main.6305ade9.css",
+    "static/js/main.103a53f1.js"
   ]
 }
